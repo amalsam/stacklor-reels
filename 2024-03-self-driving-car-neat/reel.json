@@ -1,0 +1,11 @@
+{
+  "title": "Self-driving car learns a track with NEAT",
+  "date": "2024-03",
+  "summary": "A population of cars with five radar sensors evolves neural networks with NEAT until they can drive a full lap.",
+  "language": "python",
+  "tags": ["neat", "neural-network", "genetic-algorithm", "pygame"],
+  "run": "pip install -r requirements.txt && python main.py",
+  "instagram": null,
+  "youtube": null,
+  "labs": []
+}

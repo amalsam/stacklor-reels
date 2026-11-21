@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.class
+out/
+.venv/
+venv/
+.DS_Store
+# Rendered videos stay out of git. Link the reel in reel.json instead.
+*.mp4
+*.mov
+*.webm

@@ -1,0 +1,11 @@
+{
+  "title": "Gravity, black hole and galaxy sims in plain Java",
+  "date": "2026-02",
+  "summary": "Three Swing simulations with no libraries: an N-body gravity sandbox, a black hole that follows your mouse and swallows particles, and a spiral galaxy with thousands of stars in stable orbits.",
+  "language": "java",
+  "tags": ["gravity", "black-hole", "galaxy", "java", "swing"],
+  "run": "javac *.java && java GravitySimulation",
+  "instagram": null,
+  "youtube": null,
+  "labs": ["gravity", "blackhole", "galaxy"]
+}

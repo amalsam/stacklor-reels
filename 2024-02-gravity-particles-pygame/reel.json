@@ -1,0 +1,11 @@
+{
+  "title": "Thousands of particles under gravity",
+  "date": "2024-02",
+  "summary": "An N-body particle simulation in pygame, sped up with numba, where you spawn lines and clusters of particles and watch gravity pull them together.",
+  "language": "python",
+  "tags": ["gravity", "n-body", "pygame", "numba"],
+  "run": "pip install -r requirements.txt && python gravity.py",
+  "instagram": null,
+  "youtube": null,
+  "labs": ["gravity", "nparticle"]
+}

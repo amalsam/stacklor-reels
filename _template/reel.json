@@ -1,0 +1,11 @@
+{
+  "title": "Short title shown in the index",
+  "date": "YYYY-MM",
+  "summary": "One sentence on what the video shows.",
+  "language": "python",
+  "tags": ["simulation"],
+  "run": "pip install -r requirements.txt && python main.py",
+  "instagram": null,
+  "youtube": null,
+  "labs": []
+}
