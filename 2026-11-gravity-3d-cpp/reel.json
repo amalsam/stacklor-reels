@@ -1,0 +1,11 @@
+{
+  "title": "360,000 particles in 3D with C++",
+  "date": "2026-11",
+  "summary": "The 3D gravity particle sim ported to C++ with SDL2 and OpenMP: ten times the particles of the Python version, still above 60 FPS, with an orbit camera.",
+  "language": "cpp",
+  "tags": ["gravity", "particles", "3d", "cpp", "sdl2", "openmp"],
+  "run": "g++ -O3 -march=native -fopenmp -DUSE_SDL gravity3d.cpp -o gravity3d -lSDL2 && ./gravity3d",
+  "instagram": null,
+  "youtube": null,
+  "labs": []
+}

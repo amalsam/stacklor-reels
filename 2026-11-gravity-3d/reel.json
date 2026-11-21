@@ -1,0 +1,11 @@
+{
+  "title": "Gravity particles in 3D with an orbit camera",
+  "date": "2026-11",
+  "summary": "The gravity particle sim rebuilt in 3D with pygame and numpy: spawn particle clouds, then drag to orbit the camera and scroll to zoom while they swing around the sun.",
+  "language": "python",
+  "tags": ["gravity", "particles", "3d", "pygame", "numpy"],
+  "run": "pip install -r requirements.txt && python gravity3d.py",
+  "instagram": null,
+  "youtube": null,
+  "labs": []
+}
