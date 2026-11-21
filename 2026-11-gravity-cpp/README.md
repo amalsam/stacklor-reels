@@ -18,4 +18,4 @@ g++ -O3 -march=native -DUSE_SDL gravity.cpp -o gravity -lSDL2
 - Hold left Ctrl to add particles at the cursor.
 - `1` spawns a horizontal line, `2` a circular cluster, `3` a vertical line at the cursor.
 
-Without `-DUSE_SDL` it builds headless and writes raw frames to stdout (scripted input), which is how the reel was recorded. `reel-build/compose_cpp.py` is the script that made the vertical reel.
+Without `-DUSE_SDL` it builds headless and writes raw frames to stdout (scripted input), which is how the reel was recorded.

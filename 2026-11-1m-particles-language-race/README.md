@@ -62,7 +62,3 @@ Things you can tweak:
 ## Why no Numba?
 
 The original sim used Numba. The machine this was benchmarked on had no access to PyPI, so Numba could not be installed and it is not in the race. NumPy was already installed, so it stands in for "fast Python".
-
-## reel-build/
-
-The scripts that made the video: `sim/dump.cpp` renders the glow frames, `explainer/` is the animated explainer section and its score, and `compose/compose.py` puts the reel together.

@@ -17,7 +17,3 @@ python gravity.py
 - `1` spawns a horizontal line of particles at the cursor's height.
 - `2` spawns a circular cluster around the cursor.
 - `3` spawns a vertical line of particles at the cursor's x position.
-
-## reel-build/
-
-Scripts for the 2026 "run the code" reel of this sim: `run_capture.py` runs `gravity.py` unmodified with scripted input through a headless pygame stand-in (`shim/`), and `compose.py` builds the editor + right-click Run + result video.
