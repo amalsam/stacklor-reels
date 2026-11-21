@@ -1,0 +1,11 @@
+{
+  "title": "Gravity particles, ported to C++",
+  "date": "2026-11",
+  "summary": "The 2024 pygame gravity particle sim ported line for line to C++ with SDL2, run from VS Code.",
+  "language": "cpp",
+  "tags": ["gravity", "particles", "cpp", "sdl2"],
+  "run": "g++ -O3 -march=native -DUSE_SDL gravity.cpp -o gravity -lSDL2 && ./gravity",
+  "instagram": null,
+  "youtube": null,
+  "labs": []
+}

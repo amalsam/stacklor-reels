@@ -1,0 +1,11 @@
+{
+  "title": "1,000,000 particles in 9 languages",
+  "date": "2026-11",
+  "summary": "The same 1M-particle gravity sim in Python, NumPy, JavaScript, Java, Go, Rust, C and C++, raced to 150 frames on one CPU core, then C++ on all four cores is the only one past 60 FPS.",
+  "language": "multi",
+  "tags": ["benchmark", "gravity", "particles", "python", "numpy", "javascript", "java", "go", "rust", "c", "cpp", "openmp"],
+  "run": "./run_all.sh",
+  "instagram": null,
+  "youtube": null,
+  "labs": []
+}

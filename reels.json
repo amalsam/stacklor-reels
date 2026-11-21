@@ -1,5 +1,84 @@
 [
   {
+    "folder": "2026-11-gravity-cpp",
+    "code": "https://github.com/amalsam/stacklor-reels/tree/main/2026-11-gravity-cpp",
+    "title": "Gravity particles, ported to C++",
+    "date": "2026-11",
+    "summary": "The 2024 pygame gravity particle sim ported line for line to C++ with SDL2, run from VS Code.",
+    "language": "cpp",
+    "tags": [
+      "gravity",
+      "particles",
+      "cpp",
+      "sdl2"
+    ],
+    "instagram": null,
+    "youtube": null,
+    "labs": []
+  },
+  {
+    "folder": "2026-11-gravity-3d-cpp",
+    "code": "https://github.com/amalsam/stacklor-reels/tree/main/2026-11-gravity-3d-cpp",
+    "title": "360,000 particles in 3D with C++",
+    "date": "2026-11",
+    "summary": "The 3D gravity particle sim ported to C++ with SDL2 and OpenMP: ten times the particles of the Python version, still above 60 FPS, with an orbit camera.",
+    "language": "cpp",
+    "tags": [
+      "gravity",
+      "particles",
+      "3d",
+      "cpp",
+      "sdl2",
+      "openmp"
+    ],
+    "instagram": null,
+    "youtube": null,
+    "labs": []
+  },
+  {
+    "folder": "2026-11-gravity-3d",
+    "code": "https://github.com/amalsam/stacklor-reels/tree/main/2026-11-gravity-3d",
+    "title": "Gravity particles in 3D with an orbit camera",
+    "date": "2026-11",
+    "summary": "The gravity particle sim rebuilt in 3D with pygame and numpy: spawn particle clouds, then drag to orbit the camera and scroll to zoom while they swing around the sun.",
+    "language": "python",
+    "tags": [
+      "gravity",
+      "particles",
+      "3d",
+      "pygame",
+      "numpy"
+    ],
+    "instagram": null,
+    "youtube": null,
+    "labs": []
+  },
+  {
+    "folder": "2026-11-1m-particles-language-race",
+    "code": "https://github.com/amalsam/stacklor-reels/tree/main/2026-11-1m-particles-language-race",
+    "title": "1,000,000 particles in 9 languages",
+    "date": "2026-11",
+    "summary": "The same 1M-particle gravity sim in Python, NumPy, JavaScript, Java, Go, Rust, C and C++, raced to 150 frames on one CPU core, then C++ on all four cores is the only one past 60 FPS.",
+    "language": "multi",
+    "tags": [
+      "benchmark",
+      "gravity",
+      "particles",
+      "python",
+      "numpy",
+      "javascript",
+      "java",
+      "go",
+      "rust",
+      "c",
+      "cpp",
+      "openmp"
+    ],
+    "instagram": null,
+    "youtube": null,
+    "labs": []
+  },
+  {
     "folder": "2026-02-java-gravity-blackhole-galaxy",
     "code": "https://github.com/amalsam/stacklor-reels/tree/main/2026-02-java-gravity-blackhole-galaxy",
     "title": "Gravity, black hole and galaxy sims in plain Java",

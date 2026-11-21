@@ -1,0 +1,16 @@
+== machine
+Intel(R) Xeon(R) Processor @ 2.30GHz
+cores: 4
+ram: 15Gi
+Ubuntu 24.04.5 LTS
+kernel: 6.18.44-fc-v726
+== toolchains
+Python 3.13.18
+numpy 2.5.3
+node v22.23.5
+bun 1.4.4
+openjdk version "21.0.13.0.3" 2026-10-24
+go version go1.24.7 linux/amd64
+rustc 1.97.0 (2d8144b78 2026-07-07)
+g++ (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
